@@ -21,3 +21,7 @@ Here’s an example of a simple JavaScript program:
 ```javascript
 var myVar = "Hello, world!";
 console.log(myVar);
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
