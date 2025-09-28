@@ -14,3 +14,5 @@ You can nest ideas under smaller headers.
 ##### Small header example
 
 ###### Smallest header example
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
